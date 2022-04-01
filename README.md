@@ -1,15 +1,15 @@
 # Zadanie II (JS + HTML)
 
-<a href="https://rxbsxn.notion.site/rxbsxn/Zadanka-0888facef2664426b680bab4e1e4c6a4"> >>Link do zadań >> </a>
+<a href="https://rxbsxn.notion.site/rxbsxn/Zadanka-0888facef2664426b680bab4e1e4c6a4"> >>Link do zadań << </a>
 
 Stwórz prostego bloga z listą postów oraz z formularzem do dodawania
 
 Artykuł powinien składać się z
 
-[x] id
-[x] title
-[x] body
-[x] likesCount → każdy post na początku ma 0 like’ów
+[x] id.
+[x] title.
+[ ] body.
+[x] likesCount → każdy post na początku ma 0 like’ów.
 
 ## To do:
 
